@@ -1,1 +1,2 @@
 # Income_evaluation
+This is a supervised machine learning project which followed different steps from the model development to the end. It  entailed performing exploratory data analysis on income data, then training all the 5 supervised machine learning algorithms that is decision trees,random forest,xgboost, support vector machine and logistic regression to determine if one earns more than 50k or less than 50k. Xgboost became the best model with 99% training and testing data. 
